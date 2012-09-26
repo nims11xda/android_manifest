@@ -23,6 +23,8 @@
   <project path="dalvik" name="CNA/android_dalvik" remote="github" revision="jellybean" />
   <project path="development" name="CNA/android_development" remote="github" revision="jellybean" />
   <project path="device/asus/grouper" name="CNA/android_device_asus_grouper" remote="github" revision="jellybean" />
+  <project path="device/common" name="device/common" />
+  <project path="device/sample" name="device/sample" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-mock" name="platform/external/android-mock" />
